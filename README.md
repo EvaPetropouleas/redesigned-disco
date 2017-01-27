@@ -1,1 +1,1 @@
-# redesigned-disco
+# Redesigned disco
